@@ -1,10 +1,9 @@
-{
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+"name": "Rafael Queiroz",
+  "photo": "https://avatars.githubusercontent.com/u/40036270?v=4",
+  "job": "Front-end Developer",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(11) 980462-99",
+  "email": "ralfael.queiroz@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -14,10 +13,6 @@
       {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
         "name": "React",
@@ -43,36 +38,35 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/Ralfael/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/Ralfael/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Analista de Sistema - JR Instalações e Manutenção de Equipamentos ltda",
+      "period": "2020 - 2023",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Frontend Developer - Surya MKT",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Criação de páginas em WordPress e desenvolvimento de interfaces interativas, Otimização de SEO, garantindo melhor desempenho nos motores de busca"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Designer Gráfico - Gato Branco",
+      "period": "2015 - 2018",
+      "description": "Criação de mídias gráficas e arte-finalização para materiais impressos e digitais"
     }
   ]
 }
